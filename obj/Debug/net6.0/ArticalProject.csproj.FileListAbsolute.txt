@@ -143,9 +143,7 @@ C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\staticwebassets\msbuil
 C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\scopedcss\bundle\ArticalProject.styles.css
-C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\scopedcss\projectbundle\ArticalProject.bundle.scp.css
 C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\ArticalProject.csproj.CopyComplete
 C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\ArticalProject.dll
 C:\Users\gg\Desktop\GitHub\MyBlog_WebApp\obj\Debug\net6.0\refint\ArticalProject.dll
